@@ -1,0 +1,27 @@
+.boqs{margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+body{
+    background: linear-gradient(90deg, rgb(143, 140, 136) 35%, rgb(255, 196, 0) 100%);
+}
+.cont{
+    display: flex;
+    position: relative;
+}
+.container{
+        margin: auto;
+        width: 50%;
+        padding: 10px;
+        text-align: center;
+        float: left;
+}
+
+.container2{
+    margin: auto;
+        width: 50%;
+        padding: 10px;
+        text-align: center;
+        float: right;
+}
